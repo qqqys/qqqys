@@ -30,7 +30,7 @@
 </p>
 </h1>
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="banner.png" ></a>
+  <a href="https://www.edisonlee55.com"><img src="banner.jpg" ></a>
 </p>
 
 
